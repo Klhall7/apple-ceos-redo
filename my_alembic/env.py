@@ -11,6 +11,7 @@ config = context.config
 
 from config import settings
 from models.Base import Base
+from models.CEO import CEOS
 
 # Interpret the config file for Python logging.
 # This line sets up loggers basically.
